@@ -1,0 +1,3711 @@
+{
+    "颜文字": {
+        "type": "emoticon",
+        "container": [
+            {
+                "icon": "OωO",
+                "text": "Author: DIYgod"
+            },
+            {
+                "icon": "|´・ω・)ノ",
+                "text": "Hi"
+            },
+            {
+                "icon": "ヾ(≧∇≦*)ゝ",
+                "text": "开心"
+            },
+            {
+                "icon": "(☆ω☆)",
+                "text": "星星眼"
+            },
+            {
+                "icon": "（╯‵□′）╯︵┴─┴",
+                "text": "掀桌"
+            },
+            {
+                "icon": "￣﹃￣",
+                "text": "流口水"
+            },
+            {
+                "icon": "(/ω＼)",
+                "text": "捂脸"
+            },
+            {
+                "icon": "∠( ᐛ 」∠)＿",
+                "text": "给跪"
+            },
+            {
+                "icon": "(๑•̀ㅁ•́ฅ)",
+                "text": "Hi"
+            },
+            {
+                "icon": "→_→",
+                "text": "斜眼"
+            },
+            {
+                "icon": "୧(๑•̀⌄•́๑)૭",
+                "text": "加油"
+            },
+            {
+                "icon": "٩(ˊᗜˋ*)و",
+                "text": "有木有WiFi"
+            },
+            {
+                "icon": "(ノ°ο°)ノ",
+                "text": "前方高能预警"
+            },
+            {
+                "icon": "(´இ皿இ｀)",
+                "text": "我从未见过如此厚颜无耻之人"
+            },
+            {
+                "icon": "⌇●﹏●⌇",
+                "text": "吓死宝宝惹"
+            },
+            {
+                "icon": "(ฅ´ω`ฅ)",
+                "text": "已阅留爪"
+            },
+            {
+                "icon": "(╯°A°)╯︵○○○",
+                "text": "去吧大师球"
+            },
+            {
+                "icon": "φ(￣∇￣o)",
+                "text": "太萌惹"
+            },
+            {
+                "icon": "ヾ(´･ ･｀｡)ノ\"",
+                "text": "咦咦咦"
+            },
+            {
+                "icon": "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃",
+                "text": "气呼呼"
+            },
+            {
+                "icon": "(ó﹏ò｡)",
+                "text": "我受到了惊吓"
+            },
+            {
+                "icon": "Σ(っ °Д °;)っ",
+                "text": "什么鬼"
+            },
+            {
+                "icon": "( ,,´･ω･)ﾉ\"(´っω･｀｡)",
+                "text": "摸摸头"
+            },
+            {
+                "icon": "╮(╯▽╰)╭ ",
+                "text": "无奈"
+            },
+            {
+                "icon": "o(*////▽////*)q ",
+                "text": "脸红"
+            },
+            {
+                "icon": "＞﹏＜",
+                "text": ""
+            },
+            {
+                "icon": "( ๑´•ω•) \"(ㆆᴗㆆ)",
+                "text": ""
+            }
+        ]
+    },
+    "Emoji": {
+        "type": "emoji",
+        "container": [
+            {
+                "icon": "😂",
+                "text": ""
+            },
+            {
+                "icon": "😀",
+                "text": ""
+            },
+            {
+                "icon": "😅",
+                "text": ""
+            },
+            {
+                "icon": "😊",
+                "text": ""
+            },
+            {
+                "icon": "🙂",
+                "text": ""
+            },
+            {
+                "icon": "🙃",
+                "text": ""
+            },
+            {
+                "icon": "😌",
+                "text": ""
+            },
+            {
+                "icon": "😍",
+                "text": ""
+            },
+            {
+                "icon": "😘 ",
+                "text": ""
+            },
+            {
+                "icon": "😜",
+                "text": ""
+            },
+            {
+                "icon": "😝",
+                "text": ""
+            },
+            {
+                "icon": "😏",
+                "text": ""
+            },
+            {
+                "icon": "😒",
+                "text": ""
+            },
+            {
+                "icon": "🙄",
+                "text": ""
+            },
+            {
+                "icon": "😳 ",
+                "text": ""
+            },
+            {
+                "icon": "😡",
+                "text": ""
+            },
+            {
+                "icon": "😔",
+                "text": ""
+            },
+            {
+                "icon": "😫",
+                "text": ""
+            },
+            {
+                "icon": "😱",
+                "text": ""
+            },
+            {
+                "icon": "😭",
+                "text": ""
+            },
+            {
+                "icon": "💩",
+                "text": ""
+            },
+            {
+                "icon": "👻",
+                "text": ""
+            },
+            {
+                "icon": "🙌",
+                "text": ""
+            },
+            {
+                "icon": "🖕",
+                "text": ""
+            },
+            {
+                "icon": "👍",
+                "text": ""
+            },
+            {
+                "icon": "👫",
+                "text": ""
+            },
+            {
+                "icon": "👬",
+                "text": ""
+            },
+            {
+                "icon": "👭",
+                "text": ""
+            },
+            {
+                "icon": "🌚",
+                "text": ""
+            },
+            {
+                "icon": "🌝",
+                "text": ""
+            },
+            {
+                "icon": "🙈",
+                "text": ""
+            },
+            {
+                "icon": "💊",
+                "text": ""
+            },
+            {
+                "icon": "😶",
+                "text": ""
+            },
+            {
+                "icon": "🙏",
+                "text": ""
+            },
+            {
+                "icon": "🍦",
+                "text": ""
+            },
+            {
+                "icon": "🍉",
+                "text": ""
+            },
+            {
+                "icon": "😣",
+                "text": ""
+            }
+        ]
+    },
+    "Bilibili": {
+        "type": "image",
+        "container": [
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png\">",
+                "text": "tv_doge"
+            },
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/a8111ad55953ef5e3be3327ef94eb4a39d535d06.png\">",
+                "text": "tv_亲亲"
+            },
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/bb690d4107620f1c15cff29509db529a73aee261.png\">",
+                "text": "tv_偷笑"
+            },
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/180129b8ea851044ce71caf55cc8ce44bd4a4fc8.png\">",
+                "text": "tv_再见"
+            },
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/b9cbc755c2b3ee43be07ca13de84e5b699a3f101.png\">",
+                "text": "tv_冷漠"
+            },
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/34ba3cd204d5b05fec70ce08fa9fa0dd612409ff.png\">",
+                "text": "tv_发怒"
+            },
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/34db290afd2963723c6eb3c4560667db7253a21a.png\">",
+                "text": "tv_发财"
+            },
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/9e55fd9b500ac4b96613539f1ce2f9499e314ed9.png\">",
+                "text": "tv_可爱"
+            },
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/09dd16a7aa59b77baa1155d47484409624470c77.png\">",
+                "text": "tv_吐血"
+            },
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/fe1179ebaa191569b0d31cecafe7a2cd1c951c9d.png\">",
+                "text": "tv_呆"
+            },
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/9f996894a39e282ccf5e66856af49483f81870f3.png\">",
+                "text": "tv_呕吐"
+            },
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/241ee304e44c0af029adceb294399391e4737ef2.png\">",
+                "text": "tv_困"
+            },
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/1f0b87f731a671079842116e0991c91c2c88645a.png\">",
+                "text": "tv_坏笑"
+            },
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/093c1e2c490161aca397afc45573c877cdead616.png\">",
+                "text": "tv_大佬"
+            },
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/23269aeb35f99daee28dda129676f6e9ea87934f.png\">",
+                "text": "tv_大哭"
+            },
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/d04dba7b5465779e9755d2ab6f0a897b9b33bb77.png\">",
+                "text": "tv_委屈"
+            },
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/a37683fb5642fa3ddfc7f4e5525fd13e42a2bdb1.png\">",
+                "text": "tv_害羞"
+            },
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/7cfa62dafc59798a3d3fb262d421eeeff166cfa4.png\">",
+                "text": "tv_尴尬"
+            },
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/70dc5c7b56f93eb61bddba11e28fb1d18fddcd4c.png\">",
+                "text": "tv_微笑"
+            },
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/90cf159733e558137ed20aa04d09964436f618a1.png\">",
+                "text": "tv_思考"
+            },
+            {
+                "icon": "<img src=\"https://owo.imaegoo.com/bilibili/0d15c7e2ee58e935adc6a7193ee042388adc22af.png\">",
+                "text": "tv_惊吓"
+            }
+        ]
+    },
+    "阿鲁": {
+        "type": "image",
+        "container": [
+            {
+                "text": "alu-1",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/1.png'>"
+            },
+            {
+                "text": "alu-2",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/10.png'>"
+            },
+            {
+                "text": "alu-3",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/100.png'>"
+            },
+            {
+                "text": "alu-4",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/101.png'>"
+            },
+            {
+                "text": "alu-5",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/102.png'>"
+            },
+            {
+                "text": "alu-6",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/103.png'>"
+            },
+            {
+                "text": "alu-7",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/104.png'>"
+            },
+            {
+                "text": "alu-8",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/105.png'>"
+            },
+            {
+                "text": "alu-9",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/106.png'>"
+            },
+            {
+                "text": "alu-10",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/107.png'>"
+            },
+            {
+                "text": "alu-11",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/108.png'>"
+            },
+            {
+                "text": "alu-12",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/109.png'>"
+            },
+            {
+                "text": "alu-13",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/11.png'>"
+            },
+            {
+                "text": "alu-14",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/110.png'>"
+            },
+            {
+                "text": "alu-15",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/111.png'>"
+            },
+            {
+                "text": "alu-16",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/112.png'>"
+            },
+            {
+                "text": "alu-17",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/113.png'>"
+            },
+            {
+                "text": "alu-18",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/114.png'>"
+            },
+            {
+                "text": "alu-19",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/115.png'>"
+            },
+            {
+                "text": "alu-20",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/116.png'>"
+            },
+            {
+                "text": "alu-21",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/117.png'>"
+            },
+            {
+                "text": "alu-22",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/118.png'>"
+            },
+            {
+                "text": "alu-23",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/119.png'>"
+            },
+            {
+                "text": "alu-24",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/12.png'>"
+            },
+            {
+                "text": "alu-25",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/120.png'>"
+            },
+            {
+                "text": "alu-26",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/121.png'>"
+            },
+            {
+                "text": "alu-27",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/122.png'>"
+            },
+            {
+                "text": "alu-28",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/123.png'>"
+            },
+            {
+                "text": "alu-29",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/124.png'>"
+            },
+            {
+                "text": "alu-30",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/125.png'>"
+            },
+            {
+                "text": "alu-31",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/126.png'>"
+            },
+            {
+                "text": "alu-32",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/127.png'>"
+            },
+            {
+                "text": "alu-33",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/128.png'>"
+            },
+            {
+                "text": "alu-34",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/129.png'>"
+            },
+            {
+                "text": "alu-35",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/13.png'>"
+            },
+            {
+                "text": "alu-36",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/130.png'>"
+            },
+            {
+                "text": "alu-37",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/131.png'>"
+            },
+            {
+                "text": "alu-38",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/132.png'>"
+            },
+            {
+                "text": "alu-39",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/133.png'>"
+            },
+            {
+                "text": "alu-40",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/134.png'>"
+            },
+            {
+                "text": "alu-41",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/135.png'>"
+            },
+            {
+                "text": "alu-42",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/136.png'>"
+            },
+            {
+                "text": "alu-43",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/137.png'>"
+            },
+            {
+                "text": "alu-44",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/138.png'>"
+            },
+            {
+                "text": "alu-45",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/139.png'>"
+            },
+            {
+                "text": "alu-46",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/14.png'>"
+            },
+            {
+                "text": "alu-47",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/140.png'>"
+            },
+            {
+                "text": "alu-48",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/141.png'>"
+            },
+            {
+                "text": "alu-49",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/142.png'>"
+            },
+            {
+                "text": "alu-50",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/143.png'>"
+            },
+            {
+                "text": "alu-51",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/144.png'>"
+            },
+            {
+                "text": "alu-52",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/145.png'>"
+            },
+            {
+                "text": "alu-53",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/146.png'>"
+            },
+            {
+                "text": "alu-54",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/147.png'>"
+            },
+            {
+                "text": "alu-55",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/148.png'>"
+            },
+            {
+                "text": "alu-56",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/149.png'>"
+            },
+            {
+                "text": "alu-57",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/15.png'>"
+            },
+            {
+                "text": "alu-58",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/150.png'>"
+            },
+            {
+                "text": "alu-59",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/151.png'>"
+            },
+            {
+                "text": "alu-60",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/152.png'>"
+            },
+            {
+                "text": "alu-61",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/153.png'>"
+            },
+            {
+                "text": "alu-62",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/154.png'>"
+            },
+            {
+                "text": "alu-63",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/155.png'>"
+            },
+            {
+                "text": "alu-64",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/156.png'>"
+            },
+            {
+                "text": "alu-65",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/157.png'>"
+            },
+            {
+                "text": "alu-66",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/158.png'>"
+            },
+            {
+                "text": "alu-67",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/159.png'>"
+            },
+            {
+                "text": "alu-68",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/16.png'>"
+            },
+            {
+                "text": "alu-69",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/160.png'>"
+            },
+            {
+                "text": "alu-70",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/161.png'>"
+            },
+            {
+                "text": "alu-71",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/162.png'>"
+            },
+            {
+                "text": "alu-72",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/163.png'>"
+            },
+            {
+                "text": "alu-73",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/164.png'>"
+            },
+            {
+                "text": "alu-74",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/165.png'>"
+            },
+            {
+                "text": "alu-75",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/166.png'>"
+            },
+            {
+                "text": "alu-76",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/167.png'>"
+            },
+            {
+                "text": "alu-77",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/168.png'>"
+            },
+            {
+                "text": "alu-78",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/169.png'>"
+            },
+            {
+                "text": "alu-79",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/17.png'>"
+            },
+            {
+                "text": "alu-80",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/170.png'>"
+            },
+            {
+                "text": "alu-81",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/171.png'>"
+            },
+            {
+                "text": "alu-82",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/172.png'>"
+            },
+            {
+                "text": "alu-83",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/173.png'>"
+            },
+            {
+                "text": "alu-84",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/174.png'>"
+            },
+            {
+                "text": "alu-85",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/175.png'>"
+            },
+            {
+                "text": "alu-86",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/176.png'>"
+            },
+            {
+                "text": "alu-87",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/177.png'>"
+            },
+            {
+                "text": "alu-88",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/178.png'>"
+            },
+            {
+                "text": "alu-89",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/179.png'>"
+            },
+            {
+                "text": "alu-90",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/18.png'>"
+            },
+            {
+                "text": "alu-91",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/180.png'>"
+            },
+            {
+                "text": "alu-92",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/181.png'>"
+            },
+            {
+                "text": "alu-93",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/182.png'>"
+            },
+            {
+                "text": "alu-94",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/183.png'>"
+            },
+            {
+                "text": "alu-95",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/184.png'>"
+            },
+            {
+                "text": "alu-96",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/185.png'>"
+            },
+            {
+                "text": "alu-97",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/186.png'>"
+            },
+            {
+                "text": "alu-98",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/187.png'>"
+            },
+            {
+                "text": "alu-99",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/188.png'>"
+            },
+            {
+                "text": "alu-100",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/189.png'>"
+            },
+            {
+                "text": "alu-101",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/19.png'>"
+            },
+            {
+                "text": "alu-102",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/190.png'>"
+            },
+            {
+                "text": "alu-103",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/191.png'>"
+            },
+            {
+                "text": "alu-104",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/192.png'>"
+            },
+            {
+                "text": "alu-105",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/193.png'>"
+            },
+            {
+                "text": "alu-106",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/194.png'>"
+            },
+            {
+                "text": "alu-107",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/195.png'>"
+            },
+            {
+                "text": "alu-108",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/196.png'>"
+            },
+            {
+                "text": "alu-109",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/197.png'>"
+            },
+            {
+                "text": "alu-110",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/198.png'>"
+            },
+            {
+                "text": "alu-111",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/199.png'>"
+            },
+            {
+                "text": "alu-112",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/2.png'>"
+            },
+            {
+                "text": "alu-113",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/20.png'>"
+            },
+            {
+                "text": "alu-114",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/200.png'>"
+            },
+            {
+                "text": "alu-115",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/201.png'>"
+            },
+            {
+                "text": "alu-116",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/202.png'>"
+            },
+            {
+                "text": "alu-117",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/203.png'>"
+            },
+            {
+                "text": "alu-118",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/204.png'>"
+            },
+            {
+                "text": "alu-119",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/205.png'>"
+            },
+            {
+                "text": "alu-120",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/206.png'>"
+            },
+            {
+                "text": "alu-121",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/207.png'>"
+            },
+            {
+                "text": "alu-122",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/208.png'>"
+            },
+            {
+                "text": "alu-123",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/209.png'>"
+            },
+            {
+                "text": "alu-124",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/21.png'>"
+            },
+            {
+                "text": "alu-125",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/210.png'>"
+            },
+            {
+                "text": "alu-126",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/211.png'>"
+            },
+            {
+                "text": "alu-127",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/212.png'>"
+            },
+            {
+                "text": "alu-128",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/213.png'>"
+            },
+            {
+                "text": "alu-129",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/214.png'>"
+            },
+            {
+                "text": "alu-130",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/215.png'>"
+            },
+            {
+                "text": "alu-131",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/216.png'>"
+            },
+            {
+                "text": "alu-132",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/217.png'>"
+            },
+            {
+                "text": "alu-133",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/218.png'>"
+            },
+            {
+                "text": "alu-134",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/219.png'>"
+            },
+            {
+                "text": "alu-135",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/22.png'>"
+            },
+            {
+                "text": "alu-136",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/220.png'>"
+            },
+            {
+                "text": "alu-137",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/221.png'>"
+            },
+            {
+                "text": "alu-138",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/222.png'>"
+            },
+            {
+                "text": "alu-139",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/223.png'>"
+            },
+            {
+                "text": "alu-140",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/224.png'>"
+            },
+            {
+                "text": "alu-141",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/225.png'>"
+            },
+            {
+                "text": "alu-142",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/226.png'>"
+            },
+            {
+                "text": "alu-143",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/227.png'>"
+            },
+            {
+                "text": "alu-144",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/228.png'>"
+            },
+            {
+                "text": "alu-145",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/229.png'>"
+            },
+            {
+                "text": "alu-146",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/23.png'>"
+            },
+            {
+                "text": "alu-147",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/230.png'>"
+            },
+            {
+                "text": "alu-148",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/231.png'>"
+            },
+            {
+                "text": "alu-149",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/232.png'>"
+            },
+            {
+                "text": "alu-150",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/233.png'>"
+            },
+            {
+                "text": "alu-151",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/234.png'>"
+            },
+            {
+                "text": "alu-152",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/235.png'>"
+            },
+            {
+                "text": "alu-153",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/236.png'>"
+            },
+            {
+                "text": "alu-154",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/237.png'>"
+            },
+            {
+                "text": "alu-155",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/238.png'>"
+            },
+            {
+                "text": "alu-156",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/239.png'>"
+            },
+            {
+                "text": "alu-157",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/24.png'>"
+            },
+            {
+                "text": "alu-158",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/240.png'>"
+            },
+            {
+                "text": "alu-159",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/241.png'>"
+            },
+            {
+                "text": "alu-160",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/242.png'>"
+            },
+            {
+                "text": "alu-161",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/243.png'>"
+            },
+            {
+                "text": "alu-162",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/244.png'>"
+            },
+            {
+                "text": "alu-163",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/245.png'>"
+            },
+            {
+                "text": "alu-164",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/246.png'>"
+            },
+            {
+                "text": "alu-165",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/247.png'>"
+            },
+            {
+                "text": "alu-166",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/248.png'>"
+            },
+            {
+                "text": "alu-167",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/249.png'>"
+            },
+            {
+                "text": "alu-168",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/25.png'>"
+            },
+            {
+                "text": "alu-169",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/250.png'>"
+            },
+            {
+                "text": "alu-170",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/251.png'>"
+            },
+            {
+                "text": "alu-171",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/252.png'>"
+            },
+            {
+                "text": "alu-172",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/253.png'>"
+            },
+            {
+                "text": "alu-173",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/254.png'>"
+            },
+            {
+                "text": "alu-174",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/255.png'>"
+            },
+            {
+                "text": "alu-175",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/256.png'>"
+            },
+            {
+                "text": "alu-176",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/257.png'>"
+            },
+            {
+                "text": "alu-177",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/258.png'>"
+            },
+            {
+                "text": "alu-178",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/259.png'>"
+            },
+            {
+                "text": "alu-179",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/26.png'>"
+            },
+            {
+                "text": "alu-180",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/260.png'>"
+            },
+            {
+                "text": "alu-181",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/261.png'>"
+            },
+            {
+                "text": "alu-182",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/262.png'>"
+            },
+            {
+                "text": "alu-183",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/263.png'>"
+            },
+            {
+                "text": "alu-184",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/264.png'>"
+            },
+            {
+                "text": "alu-185",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/265.png'>"
+            },
+            {
+                "text": "alu-186",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/266.png'>"
+            },
+            {
+                "text": "alu-187",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/267.png'>"
+            },
+            {
+                "text": "alu-188",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/268.png'>"
+            },
+            {
+                "text": "alu-189",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/269.png'>"
+            },
+            {
+                "text": "alu-190",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/27.png'>"
+            },
+            {
+                "text": "alu-191",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/270.png'>"
+            },
+            {
+                "text": "alu-192",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/271.png'>"
+            },
+            {
+                "text": "alu-193",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/272.png'>"
+            },
+            {
+                "text": "alu-194",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/273.png'>"
+            },
+            {
+                "text": "alu-195",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/274.png'>"
+            },
+            {
+                "text": "alu-196",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/275.png'>"
+            },
+            {
+                "text": "alu-197",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/276.png'>"
+            },
+            {
+                "text": "alu-198",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/277.png'>"
+            },
+            {
+                "text": "alu-199",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/278.png'>"
+            },
+            {
+                "text": "alu-200",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/279.png'>"
+            },
+            {
+                "text": "alu-201",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/28.png'>"
+            },
+            {
+                "text": "alu-202",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/280.png'>"
+            },
+            {
+                "text": "alu-203",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/281.png'>"
+            },
+            {
+                "text": "alu-204",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/282.png'>"
+            },
+            {
+                "text": "alu-205",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/283.png'>"
+            },
+            {
+                "text": "alu-206",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/284.png'>"
+            },
+            {
+                "text": "alu-207",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/285.png'>"
+            },
+            {
+                "text": "alu-208",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/286.png'>"
+            },
+            {
+                "text": "alu-209",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/287.png'>"
+            },
+            {
+                "text": "alu-210",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/288.png'>"
+            },
+            {
+                "text": "alu-211",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/289.png'>"
+            },
+            {
+                "text": "alu-212",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/29.png'>"
+            },
+            {
+                "text": "alu-213",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/290.png'>"
+            },
+            {
+                "text": "alu-214",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/291.png'>"
+            },
+            {
+                "text": "alu-215",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/292.png'>"
+            },
+            {
+                "text": "alu-216",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/293.png'>"
+            },
+            {
+                "text": "alu-217",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/294.png'>"
+            },
+            {
+                "text": "alu-218",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/295.png'>"
+            },
+            {
+                "text": "alu-219",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/296.png'>"
+            },
+            {
+                "text": "alu-220",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/297.png'>"
+            },
+            {
+                "text": "alu-221",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/298.png'>"
+            },
+            {
+                "text": "alu-222",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/299.png'>"
+            },
+            {
+                "text": "alu-223",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/3.png'>"
+            },
+            {
+                "text": "alu-224",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/30.png'>"
+            },
+            {
+                "text": "alu-225",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/300.png'>"
+            },
+            {
+                "text": "alu-226",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/301.png'>"
+            },
+            {
+                "text": "alu-227",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/302.png'>"
+            },
+            {
+                "text": "alu-228",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/303.png'>"
+            },
+            {
+                "text": "alu-229",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/304.png'>"
+            },
+            {
+                "text": "alu-230",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/305.png'>"
+            },
+            {
+                "text": "alu-231",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/306.png'>"
+            },
+            {
+                "text": "alu-232",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/31.png'>"
+            },
+            {
+                "text": "alu-233",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/32.png'>"
+            },
+            {
+                "text": "alu-234",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/33.png'>"
+            },
+            {
+                "text": "alu-235",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/34.png'>"
+            },
+            {
+                "text": "alu-236",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/35.png'>"
+            },
+            {
+                "text": "alu-237",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/36.png'>"
+            },
+            {
+                "text": "alu-238",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/37.png'>"
+            },
+            {
+                "text": "alu-239",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/38.png'>"
+            },
+            {
+                "text": "alu-240",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/39.png'>"
+            },
+            {
+                "text": "alu-241",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/4.png'>"
+            },
+            {
+                "text": "alu-242",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/40.png'>"
+            },
+            {
+                "text": "alu-243",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/41.png'>"
+            },
+            {
+                "text": "alu-244",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/42.png'>"
+            },
+            {
+                "text": "alu-245",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/43.png'>"
+            },
+            {
+                "text": "alu-246",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/44.png'>"
+            },
+            {
+                "text": "alu-247",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/45.png'>"
+            },
+            {
+                "text": "alu-248",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/46.png'>"
+            },
+            {
+                "text": "alu-249",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/47.png'>"
+            },
+            {
+                "text": "alu-250",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/48.png'>"
+            },
+            {
+                "text": "alu-251",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/49.png'>"
+            },
+            {
+                "text": "alu-252",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/5.png'>"
+            },
+            {
+                "text": "alu-253",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/50.png'>"
+            },
+            {
+                "text": "alu-254",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/51.png'>"
+            },
+            {
+                "text": "alu-255",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/52.png'>"
+            },
+            {
+                "text": "alu-256",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/53.png'>"
+            },
+            {
+                "text": "alu-257",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/54.png'>"
+            },
+            {
+                "text": "alu-258",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/55.png'>"
+            },
+            {
+                "text": "alu-259",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/56.png'>"
+            },
+            {
+                "text": "alu-260",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/57.png'>"
+            },
+            {
+                "text": "alu-261",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/58.png'>"
+            },
+            {
+                "text": "alu-262",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/59.png'>"
+            },
+            {
+                "text": "alu-263",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/6.png'>"
+            },
+            {
+                "text": "alu-264",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/60.png'>"
+            },
+            {
+                "text": "alu-265",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/61.png'>"
+            },
+            {
+                "text": "alu-266",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/62.png'>"
+            },
+            {
+                "text": "alu-267",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/63.png'>"
+            },
+            {
+                "text": "alu-268",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/64.png'>"
+            },
+            {
+                "text": "alu-269",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/65.png'>"
+            },
+            {
+                "text": "alu-270",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/66.png'>"
+            },
+            {
+                "text": "alu-271",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/67.png'>"
+            },
+            {
+                "text": "alu-272",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/68.png'>"
+            },
+            {
+                "text": "alu-273",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/69.png'>"
+            },
+            {
+                "text": "alu-274",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/7.png'>"
+            },
+            {
+                "text": "alu-275",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/70.png'>"
+            },
+            {
+                "text": "alu-276",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/71.png'>"
+            },
+            {
+                "text": "alu-277",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/72.png'>"
+            },
+            {
+                "text": "alu-278",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/73.png'>"
+            },
+            {
+                "text": "alu-279",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/74.png'>"
+            },
+            {
+                "text": "alu-280",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/75.png'>"
+            },
+            {
+                "text": "alu-281",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/76.png'>"
+            },
+            {
+                "text": "alu-282",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/77.png'>"
+            },
+            {
+                "text": "alu-283",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/78.png'>"
+            },
+            {
+                "text": "alu-284",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/79.png'>"
+            },
+            {
+                "text": "alu-285",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/8.png'>"
+            },
+            {
+                "text": "alu-286",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/80.png'>"
+            },
+            {
+                "text": "alu-287",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/81.png'>"
+            },
+            {
+                "text": "alu-288",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/82.png'>"
+            },
+            {
+                "text": "alu-289",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/83.png'>"
+            },
+            {
+                "text": "alu-290",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/84.png'>"
+            },
+            {
+                "text": "alu-291",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/85.png'>"
+            },
+            {
+                "text": "alu-292",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/86.png'>"
+            },
+            {
+                "text": "alu-293",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/87.png'>"
+            },
+            {
+                "text": "alu-294",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/88.png'>"
+            },
+            {
+                "text": "alu-295",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/89.png'>"
+            },
+            {
+                "text": "alu-296",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/9.png'>"
+            },
+            {
+                "text": "alu-297",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/90.png'>"
+            },
+            {
+                "text": "alu-298",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/91.png'>"
+            },
+            {
+                "text": "alu-299",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/92.png'>"
+            },
+            {
+                "text": "alu-300",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/93.png'>"
+            },
+            {
+                "text": "alu-301",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/94.png'>"
+            },
+            {
+                "text": "alu-302",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/95.png'>"
+            },
+            {
+                "text": "alu-303",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/96.png'>"
+            },
+            {
+                "text": "alu-304",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/97.png'>"
+            },
+            {
+                "text": "alu-305",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/98.png'>"
+            },
+            {
+                "text": "alu-306",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/alu/99.png'>"
+            }
+        ]
+    },
+    "小鲨鱼": {
+        "type": "image",
+        "container": [
+            {
+                "text": "smallshake-1",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/-6ddd0bf163b88414.jpg'>"
+            },
+            {
+                "text": "smallshake-2",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/761abad49f1d0845.jpg'>"
+            },
+            {
+                "text": "smallshake-3",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null-23175f4710329ce8.jpg'>"
+            },
+            {
+                "text": "smallshake-4",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null-253ceaa0ad9d00d5.jpg'>"
+            },
+            {
+                "text": "smallshake-5",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null-2be07232a85f4472.jpg'>"
+            },
+            {
+                "text": "smallshake-6",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null-2cf4d6b6f6c9d18d.jpg'>"
+            },
+            {
+                "text": "smallshake-7",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null-2f9ecc265b54c153.jpg'>"
+            },
+            {
+                "text": "smallshake-8",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null-3310ef2a226c4776.jpg'>"
+            },
+            {
+                "text": "smallshake-9",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null-35261cc16e1c7623.jpg'>"
+            },
+            {
+                "text": "smallshake-10",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null-371ab21e64e4344e.jpg'>"
+            },
+            {
+                "text": "smallshake-11",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null-373612606e85580.jpg'>"
+            },
+            {
+                "text": "smallshake-12",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null-4058efd3f267fafc.jpg'>"
+            },
+            {
+                "text": "smallshake-13",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null-43333e8c017d970f.jpg'>"
+            },
+            {
+                "text": "smallshake-14",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null-558225f96f141d7f.jpg'>"
+            },
+            {
+                "text": "smallshake-15",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null-594d91a80ca975fc.jpg'>"
+            },
+            {
+                "text": "smallshake-16",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null-640df94c061cf44c.jpg'>"
+            },
+            {
+                "text": "smallshake-17",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null-6a6dfc93a8452fd0.jpg'>"
+            },
+            {
+                "text": "smallshake-18",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null-770782127c498dcf.jpg'>"
+            },
+            {
+                "text": "smallshake-19",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null-77425082b7be3318.jpg'>"
+            },
+            {
+                "text": "smallshake-20",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null134bf8bfc231fde4.jpg'>"
+            },
+            {
+                "text": "smallshake-21",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null1fbf2df8aace9658.jpg'>"
+            },
+            {
+                "text": "smallshake-22",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null26a9eca32c4f2629.jpg'>"
+            },
+            {
+                "text": "smallshake-23",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null28a0952ef6b273b8.jpg'>"
+            },
+            {
+                "text": "smallshake-24",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null31e2f41186cb17bc.jpg'>"
+            },
+            {
+                "text": "smallshake-25",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null32683e4e287a7c78.jpg'>"
+            },
+            {
+                "text": "smallshake-26",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null33d1b7a0ee58ba6.jpg'>"
+            },
+            {
+                "text": "smallshake-27",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null3b074dfcd6eb852e.jpg'>"
+            },
+            {
+                "text": "smallshake-28",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null3b5cda546336bced.jpg'>"
+            },
+            {
+                "text": "smallshake-29",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null42e4c07e6d699079.jpg'>"
+            },
+            {
+                "text": "smallshake-30",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null47801cf08960ce50.jpg'>"
+            },
+            {
+                "text": "smallshake-31",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null4bf6cc30c99948c6.jpg'>"
+            },
+            {
+                "text": "smallshake-32",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null4f2346ac5c8fe1d2.jpg'>"
+            },
+            {
+                "text": "smallshake-33",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null529a8bd66d7e397f.jpg'>"
+            },
+            {
+                "text": "smallshake-34",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null5b20902ca111a2e2.jpg'>"
+            },
+            {
+                "text": "smallshake-35",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null5d68da02952527dd.jpg'>"
+            },
+            {
+                "text": "smallshake-36",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null5db22a4a42075334.jpg'>"
+            },
+            {
+                "text": "smallshake-37",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null60dfdc8d15a39d11.jpg'>"
+            },
+            {
+                "text": "smallshake-38",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null62860349ef635710.gif'>"
+            },
+            {
+                "text": "smallshake-39",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null6474bc4d5031f1e3.jpg'>"
+            },
+            {
+                "text": "smallshake-40",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null65faeb7ecb6b72ce.jpg'>"
+            },
+            {
+                "text": "smallshake-41",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null670847fd57338448.jpg'>"
+            },
+            {
+                "text": "smallshake-42",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null7128208ad110bf70.jpg'>"
+            },
+            {
+                "text": "smallshake-43",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/null9ee61c8ed3ad675.jpg'>"
+            },
+            {
+                "text": "smallshake-44",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/nulld832e3ed8b0b890.jpg'>"
+            },
+            {
+                "text": "smallshake-45",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/smallshake/nulle6ff0f7f47a7614.jpg'>"
+            }
+        ]
+    },
+    "滑稽": {
+        "type": "image",
+        "container": [
+            {
+                "text": "huaji-1",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji.gif'>"
+            },
+            {
+                "text": "huaji-2",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji1.jpg'>"
+            },
+            {
+                "text": "huaji-3",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji10.png'>"
+            },
+            {
+                "text": "huaji-4",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji11.gif'>"
+            },
+            {
+                "text": "huaji-5",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji12.jpg'>"
+            },
+            {
+                "text": "huaji-6",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji13.png'>"
+            },
+            {
+                "text": "huaji-7",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji14.gif'>"
+            },
+            {
+                "text": "huaji-8",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji15.jpg'>"
+            },
+            {
+                "text": "huaji-9",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji16.png'>"
+            },
+            {
+                "text": "huaji-10",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji17.gif'>"
+            },
+            {
+                "text": "huaji-11",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji18.jpg'>"
+            },
+            {
+                "text": "huaji-12",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji19.gif'>"
+            },
+            {
+                "text": "huaji-13",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji2.png'>"
+            },
+            {
+                "text": "huaji-14",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji20.jpg'>"
+            },
+            {
+                "text": "huaji-15",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji21.gif'>"
+            },
+            {
+                "text": "huaji-16",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji22.jpg'>"
+            },
+            {
+                "text": "huaji-17",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji23.gif'>"
+            },
+            {
+                "text": "huaji-18",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji24.jpg'>"
+            },
+            {
+                "text": "huaji-19",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji25.gif'>"
+            },
+            {
+                "text": "huaji-20",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji26.jpg'>"
+            },
+            {
+                "text": "huaji-21",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji27.gif'>"
+            },
+            {
+                "text": "huaji-22",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji28.jpg'>"
+            },
+            {
+                "text": "huaji-23",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji29.gif'>"
+            },
+            {
+                "text": "huaji-24",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji3.gif'>"
+            },
+            {
+                "text": "huaji-25",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji30.jpg'>"
+            },
+            {
+                "text": "huaji-26",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji31.gif'>"
+            },
+            {
+                "text": "huaji-27",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji32.jpg'>"
+            },
+            {
+                "text": "huaji-28",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji33.gif'>"
+            },
+            {
+                "text": "huaji-29",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji34.jpg'>"
+            },
+            {
+                "text": "huaji-30",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji35.gif'>"
+            },
+            {
+                "text": "huaji-31",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji36.jpg'>"
+            },
+            {
+                "text": "huaji-32",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji37.gif'>"
+            },
+            {
+                "text": "huaji-33",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji38.jpg'>"
+            },
+            {
+                "text": "huaji-34",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji39.gif'>"
+            },
+            {
+                "text": "huaji-35",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji4.jpg'>"
+            },
+            {
+                "text": "huaji-36",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji4.png'>"
+            },
+            {
+                "text": "huaji-37",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji40.jpg'>"
+            },
+            {
+                "text": "huaji-38",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji41.gif'>"
+            },
+            {
+                "text": "huaji-39",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji42.jpg'>"
+            },
+            {
+                "text": "huaji-40",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji43.gif'>"
+            },
+            {
+                "text": "huaji-41",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji44.jpg'>"
+            },
+            {
+                "text": "huaji-42",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji45.gif'>"
+            },
+            {
+                "text": "huaji-43",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji46.jpg'>"
+            },
+            {
+                "text": "huaji-44",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji47.gif'>"
+            },
+            {
+                "text": "huaji-45",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji48.jpg'>"
+            },
+            {
+                "text": "huaji-46",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji49.gif'>"
+            },
+            {
+                "text": "huaji-47",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji5.gif'>"
+            },
+            {
+                "text": "huaji-48",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji50.jpg'>"
+            },
+            {
+                "text": "huaji-49",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji51.gif'>"
+            },
+            {
+                "text": "huaji-50",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji52.jpg'>"
+            },
+            {
+                "text": "huaji-51",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji53.gif'>"
+            },
+            {
+                "text": "huaji-52",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji54.jpg'>"
+            },
+            {
+                "text": "huaji-53",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji55.gif'>"
+            },
+            {
+                "text": "huaji-54",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji56.jpg'>"
+            },
+            {
+                "text": "huaji-55",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji57.gif'>"
+            },
+            {
+                "text": "huaji-56",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji58.jpg'>"
+            },
+            {
+                "text": "huaji-57",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji59.gif'>"
+            },
+            {
+                "text": "huaji-58",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji6.jpg'>"
+            },
+            {
+                "text": "huaji-59",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji60.jpg'>"
+            },
+            {
+                "text": "huaji-60",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji61.gif'>"
+            },
+            {
+                "text": "huaji-61",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji62.jpg'>"
+            },
+            {
+                "text": "huaji-62",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji63.gif'>"
+            },
+            {
+                "text": "huaji-63",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji64.jpg'>"
+            },
+            {
+                "text": "huaji-64",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji65.gif'>"
+            },
+            {
+                "text": "huaji-65",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji66.jpg'>"
+            },
+            {
+                "text": "huaji-66",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji67.gif'>"
+            },
+            {
+                "text": "huaji-67",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji68.jpg'>"
+            },
+            {
+                "text": "huaji-68",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji69.gif'>"
+            },
+            {
+                "text": "huaji-69",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji7.png'>"
+            },
+            {
+                "text": "huaji-70",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji70.jpg'>"
+            },
+            {
+                "text": "huaji-71",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji71.gif'>"
+            },
+            {
+                "text": "huaji-72",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji72.jpg'>"
+            },
+            {
+                "text": "huaji-73",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji73.gif'>"
+            },
+            {
+                "text": "huaji-74",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji74.jpg'>"
+            },
+            {
+                "text": "huaji-75",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji75.gif'>"
+            },
+            {
+                "text": "huaji-76",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji76.jpg'>"
+            },
+            {
+                "text": "huaji-77",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji77.gif'>"
+            },
+            {
+                "text": "huaji-78",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji78.jpg'>"
+            },
+            {
+                "text": "huaji-79",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji79.gif'>"
+            },
+            {
+                "text": "huaji-80",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji8.gif'>"
+            },
+            {
+                "text": "huaji-81",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji80.jpg'>"
+            },
+            {
+                "text": "huaji-82",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji81.gif'>"
+            },
+            {
+                "text": "huaji-83",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji82.jpg'>"
+            },
+            {
+                "text": "huaji-84",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji83.gif'>"
+            },
+            {
+                "text": "huaji-85",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji84.jpg'>"
+            },
+            {
+                "text": "huaji-86",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji85.gif'>"
+            },
+            {
+                "text": "huaji-87",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji86.jpg'>"
+            },
+            {
+                "text": "huaji-88",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji87.gif'>"
+            },
+            {
+                "text": "huaji-89",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji88.jpg'>"
+            },
+            {
+                "text": "huaji-90",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji89.gif'>"
+            },
+            {
+                "text": "huaji-91",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji9.jpg'>"
+            },
+            {
+                "text": "huaji-92",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji90.jpg'>"
+            },
+            {
+                "text": "huaji-93",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji91.gif'>"
+            },
+            {
+                "text": "huaji-94",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji92.jpg'>"
+            },
+            {
+                "text": "huaji-95",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji93.gif'>"
+            },
+            {
+                "text": "huaji-96",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji94.jpg'>"
+            },
+            {
+                "text": "huaji-97",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji95.jpg'>"
+            },
+            {
+                "text": "huaji-98",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji96.jpg'>"
+            },
+            {
+                "text": "huaji-99",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji97.jpg'>"
+            },
+            {
+                "text": "huaji-100",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/huaji/huaji98.jpg'>"
+            }
+        ]
+    },
+    "天线宝宝": {
+        "type": "image",
+        "container": [
+            {
+                "text": "teletubbies-1",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/1.gif'>"
+            },
+            {
+                "text": "teletubbies-2",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/10.jpg'>"
+            },
+            {
+                "text": "teletubbies-3",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/11.jpg'>"
+            },
+            {
+                "text": "teletubbies-4",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/12.jpg'>"
+            },
+            {
+                "text": "teletubbies-5",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/13.jpg'>"
+            },
+            {
+                "text": "teletubbies-6",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/14.jpg'>"
+            },
+            {
+                "text": "teletubbies-7",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/15.jpg'>"
+            },
+            {
+                "text": "teletubbies-8",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/16.jpg'>"
+            },
+            {
+                "text": "teletubbies-9",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/17.jpg'>"
+            },
+            {
+                "text": "teletubbies-10",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/18.jpg'>"
+            },
+            {
+                "text": "teletubbies-11",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/19.jpg'>"
+            },
+            {
+                "text": "teletubbies-12",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/2.gif'>"
+            },
+            {
+                "text": "teletubbies-13",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/2.jpg'>"
+            },
+            {
+                "text": "teletubbies-14",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/20.jpg'>"
+            },
+            {
+                "text": "teletubbies-15",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/21.jpg'>"
+            },
+            {
+                "text": "teletubbies-16",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/22.jpg'>"
+            },
+            {
+                "text": "teletubbies-17",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/23.jpg'>"
+            },
+            {
+                "text": "teletubbies-18",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/24.jpg'>"
+            },
+            {
+                "text": "teletubbies-19",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/25.jpg'>"
+            },
+            {
+                "text": "teletubbies-20",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/26.jpg'>"
+            },
+            {
+                "text": "teletubbies-21",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/27.jpg'>"
+            },
+            {
+                "text": "teletubbies-22",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/28.jpg'>"
+            },
+            {
+                "text": "teletubbies-23",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/29.jpg'>"
+            },
+            {
+                "text": "teletubbies-24",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/3.gif'>"
+            },
+            {
+                "text": "teletubbies-25",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/3.jpg'>"
+            },
+            {
+                "text": "teletubbies-26",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/30.jpg'>"
+            },
+            {
+                "text": "teletubbies-27",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/4.jpg'>"
+            },
+            {
+                "text": "teletubbies-28",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/5.jpg'>"
+            },
+            {
+                "text": "teletubbies-29",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/6.jpg'>"
+            },
+            {
+                "text": "teletubbies-30",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/7.jpg'>"
+            },
+            {
+                "text": "teletubbies-31",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/8.jpg'>"
+            },
+            {
+                "text": "teletubbies-32",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/teletubbies/9.jpg'>"
+            }
+        ]
+    },
+    "基安": {
+        "type": "image",
+        "container": [
+            {
+                "text": "Coolapk-1",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_100_qqdoge.png'>"
+            },
+            {
+                "text": "Coolapk-2",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_1010.png'>"
+            },
+            {
+                "text": "Coolapk-3",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_1011.png'>"
+            },
+            {
+                "text": "Coolapk-4",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_1012.png'>"
+            },
+            {
+                "text": "Coolapk-5",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_1013.png'>"
+            },
+            {
+                "text": "Coolapk-6",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_1014.png'>"
+            },
+            {
+                "text": "Coolapk-7",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_1015.png'>"
+            },
+            {
+                "text": "Coolapk-8",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_1016.png'>"
+            },
+            {
+                "text": "Coolapk-9",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_1017.png'>"
+            },
+            {
+                "text": "Coolapk-10",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_1018.png'>"
+            },
+            {
+                "text": "Coolapk-11",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_1019.png'>"
+            },
+            {
+                "text": "Coolapk-12",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_101_pyjiaoyi.png'>"
+            },
+            {
+                "text": "Coolapk-13",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_1020.png'>"
+            },
+            {
+                "text": "Coolapk-14",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_1021.png'>"
+            },
+            {
+                "text": "Coolapk-15",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_102_fadai.png'>"
+            },
+            {
+                "text": "Coolapk-16",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_103_nb.png'>"
+            },
+            {
+                "text": "Coolapk-17",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_104.png'>"
+            },
+            {
+                "text": "Coolapk-18",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_105.png'>"
+            },
+            {
+                "text": "Coolapk-19",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_106.png'>"
+            },
+            {
+                "text": "Coolapk-20",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_107.png'>"
+            },
+            {
+                "text": "Coolapk-21",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_108.png'>"
+            },
+            {
+                "text": "Coolapk-22",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_109.png'>"
+            },
+            {
+                "text": "Coolapk-23",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_10_aoman.png'>"
+            },
+            {
+                "text": "Coolapk-24",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_11_yiwen.png'>"
+            },
+            {
+                "text": "Coolapk-25",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_12_wuyu.png'>"
+            },
+            {
+                "text": "Coolapk-26",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_13_huaixiao.png'>"
+            },
+            {
+                "text": "Coolapk-27",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_14_bishi.png'>"
+            },
+            {
+                "text": "Coolapk-28",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_15_fanu.png'>"
+            },
+            {
+                "text": "Coolapk-29",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_16_tuosai.png'>"
+            },
+            {
+                "text": "Coolapk-30",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_17_tushe.png'>"
+            },
+            {
+                "text": "Coolapk-31",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_18_han.png'>"
+            },
+            {
+                "text": "Coolapk-32",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_19_koubi.png'>"
+            },
+            {
+                "text": "Coolapk-33",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_1_hahaha.png'>"
+            },
+            {
+                "text": "Coolapk-34",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_20_qinqin.png'>"
+            },
+            {
+                "text": "Coolapk-35",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_21_penxue.png'>"
+            },
+            {
+                "text": "Coolapk-36",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_22_xiaoyan.png'>"
+            },
+            {
+                "text": "Coolapk-37",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_23_shui.png'>"
+            },
+            {
+                "text": "Coolapk-38",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_24_wuzuixiao.png'>"
+            },
+            {
+                "text": "Coolapk-39",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_25_zaijian.png'>"
+            },
+            {
+                "text": "Coolapk-40",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_26_kelian.png'>"
+            },
+            {
+                "text": "Coolapk-41",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_27_qiang.png'>"
+            },
+            {
+                "text": "Coolapk-42",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_28_ruo.png'>"
+            },
+            {
+                "text": "Coolapk-43",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_29_baoquan.png'>"
+            },
+            {
+                "text": "Coolapk-44",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_2_jingya.png'>"
+            },
+            {
+                "text": "Coolapk-45",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_30_ok.png'>"
+            },
+            {
+                "text": "Coolapk-46",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_31_xiaoku.png'>"
+            },
+            {
+                "text": "Coolapk-47",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_32_heiha.png'>"
+            },
+            {
+                "text": "Coolapk-48",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_33_wulian.png'>"
+            },
+            {
+                "text": "Coolapk-49",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_34_jizhi.png'>"
+            },
+            {
+                "text": "Coolapk-50",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_35_ye.png'>"
+            },
+            {
+                "text": "Coolapk-51",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_36_ku.png'>"
+            },
+            {
+                "text": "Coolapk-52",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_37_doge.png'>"
+            },
+            {
+                "text": "Coolapk-53",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_38_wozuimei.png'>"
+            },
+            {
+                "text": "Coolapk-54",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_39_caidao.png'>"
+            },
+            {
+                "text": "Coolapk-55",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_3_ciya.png'>"
+            },
+            {
+                "text": "Coolapk-56",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_40_aixin.png'>"
+            },
+            {
+                "text": "Coolapk-57",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_41_meigui.png'>"
+            },
+            {
+                "text": "Coolapk-58",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_42_diaoxie.png'>"
+            },
+            {
+                "text": "Coolapk-59",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_43_heixian.png'>"
+            },
+            {
+                "text": "Coolapk-60",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_44_pen.png'>"
+            },
+            {
+                "text": "Coolapk-61",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_45_yinxian.png'>"
+            },
+            {
+                "text": "Coolapk-62",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_46_nanguo.png'>"
+            },
+            {
+                "text": "Coolapk-63",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_47_weiqu.png'>"
+            },
+            {
+                "text": "Coolapk-64",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_48_weiweiyixiao.png'>"
+            },
+            {
+                "text": "Coolapk-65",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_49_huanhu.png'>"
+            },
+            {
+                "text": "Coolapk-66",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_4_liulei.png'>"
+            },
+            {
+                "text": "Coolapk-67",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_50_xinsui.png'>"
+            },
+            {
+                "text": "Coolapk-68",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_51_chigua.png'>"
+            },
+            {
+                "text": "Coolapk-69",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_52_hejiu.png'>"
+            },
+            {
+                "text": "Coolapk-70",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_53_pu.png'>"
+            },
+            {
+                "text": "Coolapk-71",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_54_hongyaowan.png'>"
+            },
+            {
+                "text": "Coolapk-72",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_55_lvyaowan.png'>"
+            },
+            {
+                "text": "Coolapk-73",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_56_dogexiaoku.png'>"
+            },
+            {
+                "text": "Coolapk-74",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_57_dogehechi.png'>"
+            },
+            {
+                "text": "Coolapk-75",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_58_dogeyuanliangta.png'>"
+            },
+            {
+                "text": "Coolapk-76",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_59_erha.png'>"
+            },
+            {
+                "text": "Coolapk-77",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_5_keai.png'>"
+            },
+            {
+                "text": "Coolapk-78",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_60_kuan.png'>"
+            },
+            {
+                "text": "Coolapk-79",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_61_lvmao.png'>"
+            },
+            {
+                "text": "Coolapk-80",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_62_huaji.png'>"
+            },
+            {
+                "text": "Coolapk-81",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_63_liuhanhuaji.png'>"
+            },
+            {
+                "text": "Coolapk-82",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_64_shounuehuaji.png'>"
+            },
+            {
+                "text": "Coolapk-83",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_65_coshuaji.png'>"
+            },
+            {
+                "text": "Coolapk-84",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_66_doujiyanhuaji.png'>"
+            },
+            {
+                "text": "Coolapk-85",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_67_mojinghuaji.png'>"
+            },
+            {
+                "text": "Coolapk-86",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_68.png'>"
+            },
+            {
+                "text": "Coolapk-87",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_69.png'>"
+            },
+            {
+                "text": "Coolapk-88",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_6_weixiao.png'>"
+            },
+            {
+                "text": "Coolapk-89",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_70.png'>"
+            },
+            {
+                "text": "Coolapk-90",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_71.png'>"
+            },
+            {
+                "text": "Coolapk-91",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_72.png'>"
+            },
+            {
+                "text": "Coolapk-92",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_73.png'>"
+            },
+            {
+                "text": "Coolapk-93",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_74.png'>"
+            },
+            {
+                "text": "Coolapk-94",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_75.png'>"
+            },
+            {
+                "text": "Coolapk-95",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_76.png'>"
+            },
+            {
+                "text": "Coolapk-96",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_77.png'>"
+            },
+            {
+                "text": "Coolapk-97",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_78.png'>"
+            },
+            {
+                "text": "Coolapk-98",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_79.png'>"
+            },
+            {
+                "text": "Coolapk-99",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_7_hehe.png'>"
+            },
+            {
+                "text": "Coolapk-100",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_80.png'>"
+            },
+            {
+                "text": "Coolapk-101",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_81_naikezui.png'>"
+            },
+            {
+                "text": "Coolapk-102",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_82_miaomiao.png'>"
+            },
+            {
+                "text": "Coolapk-103",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_83_huoba.png'>"
+            },
+            {
+                "text": "Coolapk-104",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_84_baiyan.png'>"
+            },
+            {
+                "text": "Coolapk-105",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_85.png'>"
+            },
+            {
+                "text": "Coolapk-106",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_86.png'>"
+            },
+            {
+                "text": "Coolapk-107",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_87.png'>"
+            },
+            {
+                "text": "Coolapk-108",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_88.png'>"
+            },
+            {
+                "text": "Coolapk-109",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_89.png'>"
+            },
+            {
+                "text": "Coolapk-110",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_8_piezui.png'>"
+            },
+            {
+                "text": "Coolapk-111",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_90.png'>"
+            },
+            {
+                "text": "Coolapk-112",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_91.png'>"
+            },
+            {
+                "text": "Coolapk-113",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_92.png'>"
+            },
+            {
+                "text": "Coolapk-114",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_93.png'>"
+            },
+            {
+                "text": "Coolapk-115",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_94.png'>"
+            },
+            {
+                "text": "Coolapk-116",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_95_erhading.png'>"
+            },
+            {
+                "text": "Coolapk-117",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_96_kuanlvmao.png'>"
+            },
+            {
+                "text": "Coolapk-118",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_97_haixiu.png'>"
+            },
+            {
+                "text": "Coolapk-119",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_98_wunai.png'>"
+            },
+            {
+                "text": "Coolapk-120",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_99_zhoumei.png'>"
+            },
+            {
+                "text": "Coolapk-121",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/coolapk_emotion_9_se.png'>"
+            },
+            {
+                "text": "Coolapk-122",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/c_coolb.png'>"
+            },
+            {
+                "text": "Coolapk-123",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/c_fived.png'>"
+            },
+            {
+                "text": "Coolapk-124",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/c_fivef.png'>"
+            },
+            {
+                "text": "Coolapk-125",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/c_fivem.png'>"
+            },
+            {
+                "text": "Coolapk-126",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/c_fiveo.png'>"
+            },
+            {
+                "text": "Coolapk-127",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/c_fivey.png'>"
+            },
+            {
+                "text": "Coolapk-128",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/c_fy.png'>"
+            },
+            {
+                "text": "Coolapk-129",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/c_oned.png'>"
+            },
+            {
+                "text": "Coolapk-130",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/c_onef.png'>"
+            },
+            {
+                "text": "Coolapk-131",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/c_onem.png'>"
+            },
+            {
+                "text": "Coolapk-132",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/c_oneo.png'>"
+            },
+            {
+                "text": "Coolapk-133",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/c_oney.png'>"
+            },
+            {
+                "text": "Coolapk-134",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/c_oy.png'>"
+            },
+            {
+                "text": "Coolapk-135",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/c_teny.png'>"
+            },
+            {
+                "text": "Coolapk-136",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/c_twod.png'>"
+            },
+            {
+                "text": "Coolapk-137",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/c_twof.png'>"
+            },
+            {
+                "text": "Coolapk-138",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/c_twom.png'>"
+            },
+            {
+                "text": "Coolapk-139",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/c_twoo.png'>"
+            },
+            {
+                "text": "Coolapk-140",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/c_twoy.png'>"
+            },
+            {
+                "text": "Coolapk-141",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Coolapk/c_ty.png'>"
+            }
+        ]
+    },
+    "贴吧": {
+        "type": "image",
+        "container": [
+            {
+                "text": "Tieba-New-1",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon.png'>"
+            },
+            {
+                "text": "Tieba-New-2",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon10.png'>"
+            },
+            {
+                "text": "Tieba-New-3",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon100.png'>"
+            },
+            {
+                "text": "Tieba-New-4",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon101.png'>"
+            },
+            {
+                "text": "Tieba-New-5",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon102.png'>"
+            },
+            {
+                "text": "Tieba-New-6",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon103.png'>"
+            },
+            {
+                "text": "Tieba-New-7",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon104.png'>"
+            },
+            {
+                "text": "Tieba-New-8",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon105.png'>"
+            },
+            {
+                "text": "Tieba-New-9",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon106.png'>"
+            },
+            {
+                "text": "Tieba-New-10",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon107.png'>"
+            },
+            {
+                "text": "Tieba-New-11",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon108.png'>"
+            },
+            {
+                "text": "Tieba-New-12",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon109.png'>"
+            },
+            {
+                "text": "Tieba-New-13",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon11.png'>"
+            },
+            {
+                "text": "Tieba-New-14",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon110.png'>"
+            },
+            {
+                "text": "Tieba-New-15",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon111.png'>"
+            },
+            {
+                "text": "Tieba-New-16",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon112.png'>"
+            },
+            {
+                "text": "Tieba-New-17",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon113.png'>"
+            },
+            {
+                "text": "Tieba-New-18",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon114.png'>"
+            },
+            {
+                "text": "Tieba-New-19",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon115.png'>"
+            },
+            {
+                "text": "Tieba-New-20",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon116.png'>"
+            },
+            {
+                "text": "Tieba-New-21",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon117.png'>"
+            },
+            {
+                "text": "Tieba-New-22",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon118.png'>"
+            },
+            {
+                "text": "Tieba-New-23",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon119.png'>"
+            },
+            {
+                "text": "Tieba-New-24",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon12.png'>"
+            },
+            {
+                "text": "Tieba-New-25",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon120.png'>"
+            },
+            {
+                "text": "Tieba-New-26",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon121.png'>"
+            },
+            {
+                "text": "Tieba-New-27",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon122.png'>"
+            },
+            {
+                "text": "Tieba-New-28",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon123.png'>"
+            },
+            {
+                "text": "Tieba-New-29",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon124.png'>"
+            },
+            {
+                "text": "Tieba-New-30",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon13.png'>"
+            },
+            {
+                "text": "Tieba-New-31",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon14.png'>"
+            },
+            {
+                "text": "Tieba-New-32",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon15.png'>"
+            },
+            {
+                "text": "Tieba-New-33",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon16.png'>"
+            },
+            {
+                "text": "Tieba-New-34",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon17.png'>"
+            },
+            {
+                "text": "Tieba-New-35",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon18.png'>"
+            },
+            {
+                "text": "Tieba-New-36",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon19.png'>"
+            },
+            {
+                "text": "Tieba-New-37",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon2.png'>"
+            },
+            {
+                "text": "Tieba-New-38",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon20.png'>"
+            },
+            {
+                "text": "Tieba-New-39",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon21.png'>"
+            },
+            {
+                "text": "Tieba-New-40",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon22.png'>"
+            },
+            {
+                "text": "Tieba-New-41",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon23.png'>"
+            },
+            {
+                "text": "Tieba-New-42",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon24.png'>"
+            },
+            {
+                "text": "Tieba-New-43",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon25.png'>"
+            },
+            {
+                "text": "Tieba-New-44",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon26.png'>"
+            },
+            {
+                "text": "Tieba-New-45",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon27.png'>"
+            },
+            {
+                "text": "Tieba-New-46",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon28.png'>"
+            },
+            {
+                "text": "Tieba-New-47",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon29.png'>"
+            },
+            {
+                "text": "Tieba-New-48",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon3.png'>"
+            },
+            {
+                "text": "Tieba-New-49",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon30.png'>"
+            },
+            {
+                "text": "Tieba-New-50",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon31.png'>"
+            },
+            {
+                "text": "Tieba-New-51",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon32.png'>"
+            },
+            {
+                "text": "Tieba-New-52",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon33.png'>"
+            },
+            {
+                "text": "Tieba-New-53",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon34.png'>"
+            },
+            {
+                "text": "Tieba-New-54",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon35.png'>"
+            },
+            {
+                "text": "Tieba-New-55",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon36.png'>"
+            },
+            {
+                "text": "Tieba-New-56",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon37.png'>"
+            },
+            {
+                "text": "Tieba-New-57",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon38.png'>"
+            },
+            {
+                "text": "Tieba-New-58",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon39.png'>"
+            },
+            {
+                "text": "Tieba-New-59",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon4.png'>"
+            },
+            {
+                "text": "Tieba-New-60",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon40.png'>"
+            },
+            {
+                "text": "Tieba-New-61",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon41.png'>"
+            },
+            {
+                "text": "Tieba-New-62",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon42.png'>"
+            },
+            {
+                "text": "Tieba-New-63",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon43.png'>"
+            },
+            {
+                "text": "Tieba-New-64",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon44.png'>"
+            },
+            {
+                "text": "Tieba-New-65",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon45.png'>"
+            },
+            {
+                "text": "Tieba-New-66",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon46.png'>"
+            },
+            {
+                "text": "Tieba-New-67",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon47.png'>"
+            },
+            {
+                "text": "Tieba-New-68",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon48.png'>"
+            },
+            {
+                "text": "Tieba-New-69",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon49.png'>"
+            },
+            {
+                "text": "Tieba-New-70",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon5.png'>"
+            },
+            {
+                "text": "Tieba-New-71",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon50.png'>"
+            },
+            {
+                "text": "Tieba-New-72",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon6.png'>"
+            },
+            {
+                "text": "Tieba-New-73",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon66.png'>"
+            },
+            {
+                "text": "Tieba-New-74",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon67.png'>"
+            },
+            {
+                "text": "Tieba-New-75",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon68.png'>"
+            },
+            {
+                "text": "Tieba-New-76",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon69.png'>"
+            },
+            {
+                "text": "Tieba-New-77",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon7.png'>"
+            },
+            {
+                "text": "Tieba-New-78",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon70.png'>"
+            },
+            {
+                "text": "Tieba-New-79",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon71.png'>"
+            },
+            {
+                "text": "Tieba-New-80",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon72.png'>"
+            },
+            {
+                "text": "Tieba-New-81",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon73.png'>"
+            },
+            {
+                "text": "Tieba-New-82",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon74.png'>"
+            },
+            {
+                "text": "Tieba-New-83",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon75.png'>"
+            },
+            {
+                "text": "Tieba-New-84",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon76.png'>"
+            },
+            {
+                "text": "Tieba-New-85",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon77.png'>"
+            },
+            {
+                "text": "Tieba-New-86",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon78.png'>"
+            },
+            {
+                "text": "Tieba-New-87",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon79.png'>"
+            },
+            {
+                "text": "Tieba-New-88",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon8.png'>"
+            },
+            {
+                "text": "Tieba-New-89",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon80.png'>"
+            },
+            {
+                "text": "Tieba-New-90",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon81.png'>"
+            },
+            {
+                "text": "Tieba-New-91",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon82.png'>"
+            },
+            {
+                "text": "Tieba-New-92",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon83.png'>"
+            },
+            {
+                "text": "Tieba-New-93",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon84.png'>"
+            },
+            {
+                "text": "Tieba-New-94",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon85.png'>"
+            },
+            {
+                "text": "Tieba-New-95",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon86.png'>"
+            },
+            {
+                "text": "Tieba-New-96",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon87.png'>"
+            },
+            {
+                "text": "Tieba-New-97",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon88.png'>"
+            },
+            {
+                "text": "Tieba-New-98",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon89.png'>"
+            },
+            {
+                "text": "Tieba-New-99",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon9.png'>"
+            },
+            {
+                "text": "Tieba-New-100",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon90.png'>"
+            },
+            {
+                "text": "Tieba-New-101",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon91.png'>"
+            },
+            {
+                "text": "Tieba-New-102",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon92.png'>"
+            },
+            {
+                "text": "Tieba-New-103",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon93.png'>"
+            },
+            {
+                "text": "Tieba-New-104",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon94.png'>"
+            },
+            {
+                "text": "Tieba-New-105",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon95.png'>"
+            },
+            {
+                "text": "Tieba-New-106",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon96.png'>"
+            },
+            {
+                "text": "Tieba-New-107",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon97.png'>"
+            },
+            {
+                "text": "Tieba-New-108",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon98.png'>"
+            },
+            {
+                "text": "Tieba-New-109",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Tieba-New/image_emoticon99.png'>"
+            }
+        ]
+    },
+    "坏坏": {
+        "type": "image",
+        "container": [
+            {
+                "text": "Little-Bad-1",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Little-Bad/一群坏坏.jpg'>"
+            },
+            {
+                "text": "Little-Bad-2",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Little-Bad/中坏坏.jpg'>"
+            },
+            {
+                "text": "Little-Bad-3",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Little-Bad/发火的坏坏.jpg'>"
+            },
+            {
+                "text": "Little-Bad-4",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Little-Bad/坏坏坏.jpg'>"
+            },
+            {
+                "text": "Little-Bad-5",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Little-Bad/大坏坏.jpg'>"
+            },
+            {
+                "text": "Little-Bad-6",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Little-Bad/天使一般的坏坏.jpg'>"
+            },
+            {
+                "text": "Little-Bad-7",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Little-Bad/害羞坏.jpg'>"
+            },
+            {
+                "text": "Little-Bad-8",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Little-Bad/小坏蛋.jpg'>"
+            },
+            {
+                "text": "Little-Bad-9",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Little-Bad/我们一起做坏坏的事.jpg'>"
+            },
+            {
+                "text": "Little-Bad-10",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Little-Bad/敲板子的坏坏.gif'>"
+            },
+            {
+                "text": "Little-Bad-11",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Little-Bad/比地球还大的坏坏.jpg'>"
+            },
+            {
+                "text": "Little-Bad-12",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Little-Bad/流泪的坏坏.jpg'>"
+            },
+            {
+                "text": "Little-Bad-13",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/Little-Bad/热炸的坏坏.jpg'>"
+            }
+        ]
+    },
+    "嗷大喵": {
+        "type": "image",
+        "container": [
+            {
+                "text": "aodamiao-1",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/01.gif'>"
+            },
+            {
+                "text": "aodamiao-2",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/02.gif'>"
+            },
+            {
+                "text": "aodamiao-3",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/03.gif'>"
+            },
+            {
+                "text": "aodamiao-4",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/04.gif'>"
+            },
+            {
+                "text": "aodamiao-5",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/05.gif'>"
+            },
+            {
+                "text": "aodamiao-6",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/06.gif'>"
+            },
+            {
+                "text": "aodamiao-7",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/07.gif'>"
+            },
+            {
+                "text": "aodamiao-8",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/08.gif'>"
+            },
+            {
+                "text": "aodamiao-9",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/09.gif'>"
+            },
+            {
+                "text": "aodamiao-10",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/10.gif'>"
+            },
+            {
+                "text": "aodamiao-11",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/11.gif'>"
+            },
+            {
+                "text": "aodamiao-12",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/12.gif'>"
+            },
+            {
+                "text": "aodamiao-13",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/13.gif'>"
+            },
+            {
+                "text": "aodamiao-14",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/14.gif'>"
+            },
+            {
+                "text": "aodamiao-15",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/15.gif'>"
+            },
+            {
+                "text": "aodamiao-16",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/16.gif'>"
+            },
+            {
+                "text": "aodamiao-17",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/17.gif'>"
+            },
+            {
+                "text": "aodamiao-18",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/18.gif'>"
+            },
+            {
+                "text": "aodamiao-19",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/19.gif'>"
+            },
+            {
+                "text": "aodamiao-20",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/20.gif'>"
+            },
+            {
+                "text": "aodamiao-21",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/21.gif'>"
+            },
+            {
+                "text": "aodamiao-22",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/22.gif'>"
+            },
+            {
+                "text": "aodamiao-23",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/23.gif'>"
+            },
+            {
+                "text": "aodamiao-24",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/24.gif'>"
+            },
+            {
+                "text": "aodamiao-25",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/25.gif'>"
+            },
+            {
+                "text": "aodamiao-26",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/26.gif'>"
+            },
+            {
+                "text": "aodamiao-27",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/27.gif'>"
+            },
+            {
+                "text": "aodamiao-28",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/28.gif'>"
+            },
+            {
+                "text": "aodamiao-29",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/29.gif'>"
+            },
+            {
+                "text": "aodamiao-30",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/30.gif'>"
+            },
+            {
+                "text": "aodamiao-31",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/31.gif'>"
+            },
+            {
+                "text": "aodamiao-32",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/32.gif'>"
+            },
+            {
+                "text": "aodamiao-33",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/33.gif'>"
+            },
+            {
+                "text": "aodamiao-34",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/34.gif'>"
+            },
+            {
+                "text": "aodamiao-35",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/35.gif'>"
+            },
+            {
+                "text": "aodamiao-36",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/36.gif'>"
+            },
+            {
+                "text": "aodamiao-37",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/37.gif'>"
+            },
+            {
+                "text": "aodamiao-38",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/38.gif'>"
+            },
+            {
+                "text": "aodamiao-39",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/39.gif'>"
+            },
+            {
+                "text": "aodamiao-40",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic/image/aodamiao/40.gif'>"
+            }
+        ]
+    },
+    "小丑": {
+        "type": "image",
+        "container": [
+            {
+                "text": "xiaochou-1",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/xiaochou/1.webp'>"
+            },
+            {
+                "text": "xiaochou-2",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/xiaochou/10.webp'>"
+            },
+            {
+                "text": "xiaochou-3",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/xiaochou/11.webp'>"
+            },
+            {
+                "text": "xiaochou-4",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/xiaochou/12.webp'>"
+            },
+            {
+                "text": "xiaochou-5",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/xiaochou/13.webp'>"
+            },
+            {
+                "text": "xiaochou-6",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/xiaochou/14.webp'>"
+            },
+            {
+                "text": "xiaochou-7",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/xiaochou/15.webp'>"
+            },
+            {
+                "text": "xiaochou-8",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/xiaochou/16.webp'>"
+            },
+            {
+                "text": "xiaochou-9",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/xiaochou/17.webp'>"
+            },
+            {
+                "text": "xiaochou-10",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/xiaochou/18.webp'>"
+            },
+            {
+                "text": "xiaochou-11",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/xiaochou/19.webp'>"
+            },
+            {
+                "text": "xiaochou-12",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/xiaochou/2.webp'>"
+            },
+            {
+                "text": "xiaochou-13",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/xiaochou/20.webp'>"
+            },
+            {
+                "text": "xiaochou-14",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/xiaochou/3.webp'>"
+            },
+            {
+                "text": "xiaochou-15",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/xiaochou/4.webp'>"
+            },
+            {
+                "text": "xiaochou-16",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/xiaochou/5.webp'>"
+            },
+            {
+                "text": "xiaochou-17",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/xiaochou/6.webp'>"
+            },
+            {
+                "text": "xiaochou-18",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/xiaochou/7.webp'>"
+            },
+            {
+                "text": "xiaochou-19",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/xiaochou/8.webp'>"
+            },
+            {
+                "text": "xiaochou-20",
+                "icon": "<img src='https://jsdelivr.ggyy.ren/gh/laoyerror/twikoo-magic@master/image/xiaochou/9.webp'>"
+            }
+        ]
+    },
+    "表情包": {
+        "type": "image",
+        "container": [
+            {
+                "text": "happy-1",
+                "icon": "<img src='https://img.ggyy.ren/1.gif'>"
+            },
+            {
+                "text": "happy-2",
+                "icon": "<img src='https://img.ggyy.ren/2.gif'>"
+            },
+            {
+                "text": "happy-3",
+                "icon": "<img src='https://img.ggyy.ren/3.gif'>"
+            },
+            {
+                "text": "happy-4",
+                "icon": "<img src='https://img.ggyy.ren/4.gif'>"
+            },
+            {
+                "text": "happy-5",
+                "icon": "<img src='https://img.ggyy.ren/5.gif'>"
+            },
+            {
+                "text": "happy-6",
+                "icon": "<img src='https://img.ggyy.ren/6.gif'>"
+            },
+            {
+                "text": "happy-7",
+                "icon": "<img src='https://img.ggyy.ren/7.gif'>"
+            },
+            {
+                "text": "happy-8",
+                "icon": "<img src='https://img.ggyy.ren/8.gif'>"
+            },
+            {
+                "text": "happy-9",
+                "icon": "<img src='https://img.ggyy.ren/9.gif'>"
+            },
+            {
+                "text": "happy-10",
+                "icon": "<img src='https://img.ggyy.ren/10.gif'>"
+            },
+            {
+                "text": "happy-11",
+                "icon": "<img src='https://img.ggyy.ren/11.gif'>"
+            },
+            {
+                "text": "happy-12",
+                "icon": "<img src='https://img.ggyy.ren/12.gif'>"
+            },
+            {
+                "text": "happy-13",
+                "icon": "<img src='https://img.ggyy.ren/13.gif'>"
+            },
+            {
+                "text": "happy-14",
+                "icon": "<img src='https://img.ggyy.ren/14.gif'>"
+            },
+            {
+                "text": "happy-15",
+                "icon": "<img src='https://img.ggyy.ren/15.gif'>"
+            },
+            {
+                "text": "happy-16",
+                "icon": "<img src='https://img.ggyy.ren/16.gif'>"
+            },
+            {
+                "text": "happy-17",
+                "icon": "<img src='https://img.ggyy.ren/17.gif'>"
+            },
+            {
+                "text": "happy-18",
+                "icon": "<img src='https://img.ggyy.ren/18.gif'>"
+            },
+            {
+                "text": "happy-19",
+                "icon": "<img src='https://img.ggyy.ren/19.gif'>"
+            },
+            {
+                "text": "happy-20",
+                "icon": "<img src='https://img.ggyy.ren/20.gif'>"
+            }
+        ]
+    }
+}
