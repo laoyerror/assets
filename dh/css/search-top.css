@@ -36,7 +36,7 @@ button {
 }
 
 .search-clear {
-  cursor: url(https://static.laoyee.app/dh/img/a.cur), pointer;
+  cursor: url(../img/a.cur), pointer;
   display: none;
   position: absolute;
   width: 20px;
@@ -109,7 +109,7 @@ button {
 
 #search button:hover {
   background: #34a97e;
-  cursor: url(https://static.laoyee.app/dh/img/a.cur), pointer;
+  cursor: url(../img/a.cur), pointer;
 }
 /* #search button i {color:#fff;font-size:15px;height:48px;width:80px;} */
 #search button i {
@@ -154,7 +154,7 @@ button {
   display: block;
   height: 50px;
   width: 75px;
-  cursor: url(https://static.laoyee.app/dh/img/a.cur), pointer;
+  cursor: url(../img/a.cur), pointer;
 }
 
 .s-type-list {
@@ -187,7 +187,7 @@ button {
   text-align: center;
   float: left;
   padding: 0px 10px;
-  cursor: url(https://static.laoyee.app/dh/img/a.cur), pointer;
+  cursor: url(../img/a.cur), pointer;
 }
 
 .s-type-list label:hover {
@@ -210,7 +210,7 @@ button {
   font-size: 16px;
   line-height: 31px;
   color: #1d1e20;
-  background: url(https://static.laoyee.app/dh/img/xia.png) no-repeat 45px 5px;
+  background: url(../img/xia.png) no-repeat 45px 5px;
 }
 /* .type-text {position:absolute;left:0;width:75px;padding-left:12px;font-size:16px;line-height:31px;color:#1d1e20;} */
 .search-type {
@@ -227,7 +227,7 @@ button {
   font-size: 13px;
   line-height: 31px;
   border-radius: 3px 3px 3px 3px;
-  cursor: url(https://static.laoyee.app/dh/img/a.cur), pointer;
+  cursor: url(../img/a.cur), pointer;
 }
 
 .search-type input:checked + label {
@@ -281,7 +281,7 @@ button {
   top: 50%;
   right: 10px;
   z-index: 3;
-  cursor: url(https://static.laoyee.app/dh/img/a.cur), pointer;
+  cursor: url(../img/a.cur), pointer;
 }
 
 .arrow i {
@@ -350,7 +350,7 @@ button {
   width: 78px;
   max-height: 105px;
   margin: 0 10px 0 0;
-  cursor: url(https://static.laoyee.app/dh/img/a.cur), pointer;
+  cursor: url(../img/a.cur), pointer;
 }
 
 .dh_a .dh_b {

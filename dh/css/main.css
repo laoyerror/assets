@@ -126,12 +126,12 @@ h6 {
 }
 
 body {
-  cursor: url(https://static.laoyee.app/dh/img/b.cur), default;
+  cursor: url(../img/b.cur), default;
   /* font-family: "LXGW WenKai Screen", sans-serif; */
 }
 
 a:hover {
-  cursor: url(https://static.laoyee.app/dh/img/a.cur), pointer;
+  cursor: url(../img/a.cur), pointer;
 }
 
 .fl {
@@ -163,7 +163,7 @@ a:hover {
 
 .header {
   height: 75px;
-  background: url(https://static.laoyee.app/dh/img/topbg.png) no-repeat top left;
+  background: url(../img/topbg.png) no-repeat top left;
 }
 
 .main .header .img {
@@ -201,7 +201,7 @@ a:hover {
   height: 60px;
   z-index: 9999;
   background-color: transparent;
-  cursor: url(https://static.laoyee.app/dh/img/a.cur), pointer;
+  cursor: url(../img/a.cur), pointer;
 }
 
 .main .header .weather .mask {
@@ -212,7 +212,7 @@ a:hover {
   height: 60px;
   z-index: 999;
   background-color: transparent;
-  cursor: url(https://static.laoyee.app/dh/img/b.cur), default;
+  cursor: url(../img/b.cur), default;
 }
 
 .main .header .top {
@@ -231,7 +231,7 @@ a:hover {
 .main .header .time {
   height: 75px;
   width: 110px;
-  cursor: url(https://static.laoyee.app/dh/img/a.cur), pointer;
+  cursor: url(../img/a.cur), pointer;
 }
 
 .main .header .time span {
@@ -275,7 +275,7 @@ a:hover {
 .box .search .left {
   width: 118px;
   height: 118px;
-  background: url(https://static.laoyee.app/dh/img/head/xia6.png) no-repeat;
+  background: url(../img/head/xia6.png) no-repeat;
   background-position: center;
   background-size: 100%;
   position: absolute;
@@ -286,7 +286,7 @@ a:hover {
 .box .search .right {
   width: 118px;
   height: 118px;
-  background: url(https://static.laoyee.app/dh/img/head/51b2.png) no-repeat;
+  background: url(../img/head/51b2.png) no-repeat;
   background-position: center;
   background-size: 100%;
   position: absolute;
@@ -298,7 +298,7 @@ a:hover {
   display: block;
   width: 118px;
   height: 118px;
-  cursor: url(https://static.laoyee.app/dh/img/a.cur), pointer;
+  cursor: url(../img/a.cur), pointer;
 }
 
 .nine .section {
@@ -335,8 +335,7 @@ a:hover {
   color: #6b6b6b;
   text-align: right;
   background-color: pink;
-  background: url(https://static.laoyee.app/dh/img/on.png) no-repeat center
-    right;
+  background: url(../img/on.png) no-repeat center right;
   margin-right: 20px;
   line-height: 30px;
 }
@@ -376,8 +375,7 @@ a:hover {
   width: 60px;
   height: 85px;
   color: #6b6b6b;
-  background: url(https://static.laoyee.app/dh/img/icon.gif) center top
-    no-repeat;
+  background: url(../img/icon.gif) center top no-repeat;
 }
 
 .nine .list li a img {
@@ -497,123 +495,123 @@ a:hover {
 }
 
 .content .a .one span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/shipin1.png);
+  background-image: url(../img/icon/shipin1.png);
 }
 
 .content .a .two span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/game1.png);
+  background-image: url(../img/icon/game1.png);
 }
 
 .content .a .three span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/books1.png);
+  background-image: url(../img/icon/books1.png);
 }
 
 .content .a .four span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/news1.png);
+  background-image: url(../img/icon/news1.png);
 }
 
 .content .a .five span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/junshi1.png);
+  background-image: url(../img/icon/junshi1.png);
 }
 
 .content .a .six span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/music1.png);
+  background-image: url(../img/icon/music1.png);
 }
 
 .content .b .one span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/search1.png);
+  background-image: url(../img/icon/search1.png);
 }
 
 .content .b .two span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/tool.png);
+  background-image: url(../img/icon/tool.png);
 }
 
 .content .b .three span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/sucai1.png);
+  background-image: url(../img/icon/sucai1.png);
 }
 
 .content .b .four span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/xuexi1.png);
+  background-image: url(../img/icon/xuexi1.png);
 }
 
 .content .b .five span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/inter1.png);
+  background-image: url(../img/icon/inter1.png);
 }
 
 .content .b .six span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/code1.png);
+  background-image: url(../img/icon/code1.png);
 }
 
 .content .c .one span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/tiyu1.png);
+  background-image: url(../img/icon/tiyu1.png);
 }
 
 .content .c .two span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/lvyou1.png);
+  background-image: url(../img/icon/lvyou1.png);
 }
 
 .content .c .three span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/job1.png);
+  background-image: url(../img/icon/job1.png);
 }
 
 .content .c .four span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/good1.png);
+  background-image: url(../img/icon/good1.png);
 }
 
 .content .c .five span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/home1.png);
+  background-image: url(../img/icon/home1.png);
 }
 
 .content .c .six span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/shenghuo.png);
+  background-image: url(../img/icon/shenghuo.png);
 }
 
 .content .d .one span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/gowu1.png);
+  background-image: url(../img/icon/gowu1.png);
 }
 
 .content .d .two span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/youhui1.png);
+  background-image: url(../img/icon/youhui1.png);
 }
 
 .content .d .three span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/bank1.png);
+  background-image: url(../img/icon/bank1.png);
 }
 
 .content .d .four span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/huo.png);
+  background-image: url(../img/icon/huo.png);
 }
 
 .content .d .five span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/jiaoyou.png);
+  background-image: url(../img/icon/jiaoyou.png);
 }
 
 .content .d .six span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/shequ1.png);
+  background-image: url(../img/icon/shequ1.png);
 }
 
 .content .e .one span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/qian1.png);
+  background-image: url(../img/icon/qian1.png);
 }
 
 .content .e .two span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/che1.png);
+  background-image: url(../img/icon/che1.png);
 }
 
 .content .e .three span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/pc1.png);
+  background-image: url(../img/icon/pc1.png);
 }
 
 .content .e .four span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/phone1.png);
+  background-image: url(../img/icon/phone1.png);
 }
 
 .content .e .five span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/ku1.png);
+  background-image: url(../img/icon/ku1.png);
 }
 
 .content .e .six span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/ruan1.png);
+  background-image: url(../img/icon/ruan1.png);
 }
 
 .tool {
@@ -686,7 +684,7 @@ a:hover {
   position: fixed;
   left: 95%;
   bottom: 85px;
-  cursor: url(https://static.laoyee.app/dh/img/a.cur), pointer;
+  cursor: url(../img/a.cur), pointer;
   /* -------- */
   z-index: 99;
   /* -------- */
@@ -733,8 +731,7 @@ a:hover {
   right: 0;
   top: 0;
   bottom: 0;
-  background: url(https://static.laoyee.app/dh/img/dialog.png) no-repeat center
-    center;
+  background: url(../img/dialog.png) no-repeat center center;
 }
 
 .dialog p {

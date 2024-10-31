@@ -130,11 +130,11 @@ h6 {
 }
 
 body {
-  cursor: url(https://static.laoyee.app/dh/img/b.cur), default;
+  cursor: url(../img/b.cur), default;
 }
 
 a:hover {
-  cursor: url(https://static.laoyee.app/dh/img/a.cur), pointer;
+  cursor: url(../img/a.cur), pointer;
 }
 
 .fl {
@@ -160,7 +160,7 @@ a:hover {
 
 .header {
   height: 75px;
-  background: url(https://static.laoyee.app/dh/img/topbg.png) no-repeat top left;
+  background: url(../img/topbg.png) no-repeat top left;
 }
 
 .main .header .img {
@@ -243,7 +243,7 @@ a:hover {
 .box .search .left {
   width: 120px;
   height: 120px;
-  background: url(https://static.laoyee.app/dh/img/left.png) no-repeat;
+  background: url(../img/left.png) no-repeat;
   background-size: 120px 120px;
   position: absolute;
   top: 0;
@@ -254,13 +254,13 @@ a:hover {
   display: block;
   width: 118px;
   height: 118px;
-  cursor: url(https://static.laoyee.app/dh/img/a.cur), pointer;
+  cursor: url(../img/a.cur), pointer;
 }
 
 .box .search .right {
   width: 120px;
   height: 120px;
-  background: url(https://static.laoyee.app/dh/img/right.png) no-repeat;
+  background: url(../img/right.png) no-repeat;
   background-size: 120px 120px;
   position: absolute;
   top: 0;
@@ -304,7 +304,7 @@ a:hover {
   color: #6b6b6b;
   text-align: right;
   background-color: pink;
-  background: url(https://static.laoyee.app/dh/img/on.png) no-repeat center;
+  background: url(../img/on.png) no-repeat center;
   margin-right: 10px;
   line-height: 30px;
 }
@@ -331,7 +331,7 @@ a:hover {
   width: 60px;
   height: 85px;
   color: #6b6b6b;
-  background: url(https://static.laoyee.app/dh/img/icon.gif) left top no-repeat;
+  background: url(../img/icon.gif) left top no-repeat;
 }
 
 .nine .list li a img {
@@ -447,123 +447,123 @@ a:hover {
 }
 
 .content .a .one span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/play.png);
+  background-image: url(../img/icon/play.png);
 }
 
 .content .a .two span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/game.png);
+  background-image: url(../img/icon/game.png);
 }
 
 .content .a .three span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/books.png);
+  background-image: url(../img/icon/books.png);
 }
 
 .content .a .four span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/news.png);
+  background-image: url(../img/icon/news.png);
 }
 
 .content .a .five span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/junshi.png);
+  background-image: url(../img/icon/junshi.png);
 }
 
 .content .a .six span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/music.png);
+  background-image: url(../img/icon/music.png);
 }
 
 .content .b .one span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/search.png);
+  background-image: url(../img/icon/search.png);
 }
 
 .content .b .two span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/tool.png);
+  background-image: url(../img/icon/tool.png);
 }
 
 .content .b .three span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/sucai.png);
+  background-image: url(../img/icon/sucai.png);
 }
 
 .content .b .four span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/xuexi.png);
+  background-image: url(../img/icon/xuexi.png);
 }
 
 .content .b .five span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/inter.png);
+  background-image: url(../img/icon/inter.png);
 }
 
 .content .b .six span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/code.png);
+  background-image: url(../img/icon/code.png);
 }
 
 .content .c .one span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/tiyu.png);
+  background-image: url(../img/icon/tiyu.png);
 }
 
 .content .c .two span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/lvyou.png);
+  background-image: url(../img/icon/lvyou.png);
 }
 
 .content .c .three span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/job.png);
+  background-image: url(../img/icon/job.png);
 }
 
 .content .c .four span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/good.png);
+  background-image: url(../img/icon/good.png);
 }
 
 .content .c .five span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/home.png);
+  background-image: url(../img/icon/home.png);
 }
 
 .content .c .six span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/shenghuo.png);
+  background-image: url(../img/icon/shenghuo.png);
 }
 
 .content .d .one span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/gowu.png);
+  background-image: url(../img/icon/gowu.png);
 }
 
 .content .d .two span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/youhui.png);
+  background-image: url(../img/icon/youhui.png);
 }
 
 .content .d .three span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/bank.png);
+  background-image: url(../img/icon/bank.png);
 }
 
 .content .d .four span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/huo.png);
+  background-image: url(../img/icon/huo.png);
 }
 
 .content .d .five span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/jiaoyou.png);
+  background-image: url(../img/icon/jiaoyou.png);
 }
 
 .content .d .six span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/shequ.png);
+  background-image: url(../img/icon/shequ.png);
 }
 
 .content .e .one span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/qian.png);
+  background-image: url(../img/icon/qian.png);
 }
 
 .content .e .two span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/che.png);
+  background-image: url(../img/icon/che.png);
 }
 
 .content .e .three span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/pc.png);
+  background-image: url(../img/icon/pc.png);
 }
 
 .content .e .four span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/phone.png);
+  background-image: url(../img/icon/phone.png);
 }
 
 .content .e .five span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/ku.png);
+  background-image: url(../img/icon/ku.png);
 }
 
 .content .e .six span {
-  background-image: url(https://static.laoyee.app/dh/img/icon/ruan.png);
+  background-image: url(../img/icon/ruan.png);
 }
 
 .tool {
@@ -673,8 +673,7 @@ a:hover {
   right: 0;
   top: 0;
   bottom: 0;
-  background: url(https://static.laoyee.app/dh/img/dialog.png) no-repeat center
-    center;
+  background: url(../img/dialog.png) no-repeat center center;
 }
 
 .dialog p {

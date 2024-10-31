@@ -222,7 +222,7 @@ function setInput() {
   d.addEventListener("change", q), b.addEventListener("submit", r);
 })();
 console.log(
-  "%c 欢迎访问我们的官网 https://www.myzye.com/ ",
+  "%c 欢迎访问我们的官网 https://myzye.com/ ",
   "color:white;background:#AED6F1;padding:8px 0;"
 );
 console.log(
@@ -244,19 +244,19 @@ var section = document.querySelector(".section");
 var btntext = "";
 if (unitInfo == "duang") {
   swith.style.backgroundImage =
-    "url(https://static.meijiecao.top/dh/img/off.png)";
+    "url(https://bu.dusays.com/2024/10/31/67231f37ebd2f.png)";
   list.style.display = "none";
   section.style.borderBottom = "none";
   btntext = "展开";
 } else if (unitInfo == "happy") {
   swith.style.backgroundImage =
-    "url(https://static.meijiecao.top/dh/img/on.png)";
+    "url(https://bu.dusays.com/2024/10/31/67231f366df07.png)";
   list.style.display = "block";
   section.style.borderBottom = "solid 1px #d6d6d6";
   btntext = "关闭";
 } else {
   swith.style.backgroundImage =
-    "url(https://static.meijiecao.top/dh/img/on.png)";
+    "url(https://bu.dusays.com/2024/10/31/67231f366df07.png)";
   list.style.display = "block";
   section.style.borderBottom = "solid 1px #d6d6d6";
   btntext = "关闭";
@@ -264,14 +264,14 @@ if (unitInfo == "duang") {
 swith.onclick = function () {
   if (btntext == "展开") {
     this.style.backgroundImage =
-      "url(https://static.meijiecao.top/dh/img/on.png)";
+      "url(https://bu.dusays.com/2024/10/31/67231f366df07.png)";
     list.style.display = "block";
     section.style.borderBottom = "solid 1px #d6d6d6";
     btntext = "关闭";
     localStorage.setItem("laoyee", "happy");
   } else {
     this.style.backgroundImage =
-      "url(https://static.meijiecao.top/dh/img/off.png)";
+      "url(https://bu.dusays.com/2024/10/31/67231f37ebd2f.png)";
     list.style.display = "none";
     section.style.borderBottom = "none";
     btntext = "展开";
