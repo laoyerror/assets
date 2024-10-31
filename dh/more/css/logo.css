@@ -1,0 +1,25 @@
+﻿.v2-logo {
+    overflow: hidden;
+    height: 32px;
+    padding: 14px 0;
+}
+
+.v2-logo .hao123 {
+    /* float: left;
+    width: 108px;
+    height: 32px;
+    background: url(../images/logo.png);
+    text-indent: -9999em; */
+	float: left;
+    width: 150px;
+    height: 55px;
+    background: url(../images/logos.png);
+    background-size: 100%;
+    text-indent: -9999em;
+}
+
+/* .gray-v2-logo .hao123 {
+    background: url(../images/hao-logo-color.19e26e257.png);
+    _background-image: none!important;
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='hao-logo-color.19e26e257');
+} */

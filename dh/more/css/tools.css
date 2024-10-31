@@ -1,0 +1,33 @@
+﻿.v2-tools {
+    font-size: 12px;
+    font-family: "Hiragino Sans GB","Hiragino Sans GB W3","Microsoft Yahei",STHeiti,SimSun,helvetica,arial,sans-serif;
+}
+
+.v2-tools .home {
+    height: 60px;
+    position: relative;
+}
+
+.v2-tools .home i {
+    float: left;
+    width: 14px;
+    height: 12px;
+    margin-top: 35px;
+}
+
+.v2-tools .home {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.v2-tools .home i {
+    background: url(../images/home1.png) no-repeat 0 0;
+    _background: none!important;
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/home.77e4b61f6.png');
+}
+
+.gray-v2-tools .home i {
+    background: url(../images/home.png) no-repeat 0 0;
+    _background: none!important;
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/home-gray.b9fe2096f.png');
+}
