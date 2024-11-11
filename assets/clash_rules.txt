@@ -1,12 +1,1 @@
-payload:
-  - DOMAIN-SUFFIX,mooguu.top
-  - DOMAIN-SUFFIX,mooguu.org
-  - DOMAIN-SUFFIX,52pokemon.cc
-  - DOMAIN-SUFFIX,itsmyduty.top
-  - DOMAIN-SUFFIX,lyrebirdemby.com
-  - DOMAIN-SUFFIX,1110111.top
-  - DOMAIN-SUFFIX,123456.buzz
-  - DOMAIN-SUFFIX,dpxemby.xyz
-  - DOMAIN-SUFFIX,awatv.de
-  - DOMAIN-SUFFIX,linux.do
-  - DOMAIN-SUFFIX,sfcj.org
+123
