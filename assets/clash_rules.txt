@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,mooguu.top
   - DOMAIN-SUFFIX,mooguu.org
   - DOMAIN-SUFFIX,52pokemon.cc
